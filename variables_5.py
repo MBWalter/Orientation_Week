@@ -1,0 +1,5 @@
+five_korona = input("How much 5 korona coins: ")
+two_korona = input("How much 2 korona coins: ")
+one_korona =input("How much 1 korona coins: ")
+total = int(five_korona) * 5 + int(two_korona) * 2 + int(one_korona)
+print("That is " , total , "korona.")
